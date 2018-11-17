@@ -5,6 +5,7 @@ author: Mette Reitsma
 work:  Lean Specialist, Project Manager
 year: 2018
 profile: mette-reitsma.jpg
+design: raybogman.com
 
 # Navigation
 nav1: "About"
@@ -44,19 +45,19 @@ sec13: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae
 
 # Social Links
 facebook: username
-twitter:  username
+#twitter:  username
 #google: username
 #instagram: username
 #pinterest: username
-#linkedin: username
+linkedin: username
 #youtube: username
 #spotify: username
 #lastfm: username
-github: username
+#github: username
 #stackoverflow: username
 #quora: username
 #reddit: username
 #medium: username
 #vimeo: username
-keybase: username
-email: test@gmail.com
+#keybase: username
+email: hallo@met.resulta.at
