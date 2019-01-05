@@ -2,36 +2,33 @@
 title: Met Resultaat
 name:  Met Resultaat
 author: Mette Reitsma
-work:  Lean Specialist, Project Manager
-year: 2018
+work:  Improvement manager
+year: 2019
 profile: mette-reitsma.jpg
 design: raybogman.com
 
 # Navigation
-nav1: "About"
+nav1: "Over"
 nav2: "Things I Can Do"
 nav3: "A Few Accomplishments"
+nav4: "Wie is Mette?"
 
 # Section1
-sec1: "Read Jekyll"
-sec2: "Just an incredibly simple responsive template for Jekyll."
-sec3: "Faucibus sed lobortis aliquam lorem blandit. Lorem eu nunc metus col. Commodo id in arcu ante lorem ipsum sed accumsan erat praesent faucibus commodo ac mi lacus. Adipiscing mi ac commodo. Vis aliquet tortor ultricies non ante erat nunc integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum."
+sec1: "Met Resultaat"
+sec2: "De kracht van verbeter management nu binnen hand bereik"
+sec3: "Met Resultaat helpt met het managen en realiseren van verbeteringen en veranderingen. Dit op basis van LEAN principes maar vooral ook veel gezond verstand en pragmatiek zodat het simpel blijft."
 
 # Section 2
 sec4: "Things I Can Do"
-sec5: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer lorem ipsum dolor sit amet."
+sec5: "Neem contact op als:"
 icon1: "fas fa-code"
-icont1: "Write all the code"
+icont1: "Jouw organisatie de klanttevredenheid wil verbeteren"
 icon2: "fa-cubes"
-icont2: "Stack small boxes"
+icont2: "Jouw organisatie efficiënter wil gaan werken"
 icon3: "fa-book"
-icont3: "Read books and stuff"
+icont3: "Jouw organisatie de levertijd wil verkorten"
 icon4: "fa-coffee"
-icont4: "Drink much coffee"
-icon5: "fa-bolt"
-icont5: "Lightning bolt"
-icon6: "fa-users"
-icont6: "Shadow clone technique"
+icont4: "Jouw organisatie LEAN principes wil implementeren"
 
 # Section 3
 sec6: "A Few Accomplishments"
@@ -42,6 +39,11 @@ sec10: "Terraformed a small moon"
 sec11: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
 sec12: "Snapped dark matter in the wild"
 sec13: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
+
+# Section 4
+sec14: "Wie is Mette"
+sec15: "Oprichter en eigenaar achter Met Resultaat is Mette Reitsma. Ze is enthousiast, slim, gedreven en zeer resultaatgericht. Met veel energie en overtuigingskracht brengt zij een organisatie in beweging. Ze leert snel en stelt veel vragen om tot de kern te komen. Betrouwbaarheid is voor haar cruciaal."
+sec16: "Mette heeft ruim 20 jaar ervaring en heeft daarbij meerdere organisaties in beweging gebracht. Ze maakt problemen graag kleiner zodat ze in kleine stappen op te lossen zijn. Ze zorgt continu dat kwaliteit, tijd en investering met elkaar in balans zijn."
 
 # Social Links
 facebook: username
