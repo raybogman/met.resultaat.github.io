@@ -19,7 +19,7 @@ sec2: "De kracht van verbeter management nu binnen hand bereik"
 sec3: "Met Resultaat helpt met het managen en realiseren van verbeteringen en veranderingen. Dit op basis van LEAN principes maar vooral ook veel gezond verstand en pragmatiek zodat het simpel blijft."
 
 # Section 2
-sec4: "Things I Can Do"
+sec4: "Kernwaarden"
 sec5: "Neem contact op als:"
 icon1: "fas fa-code"
 icont1: "Jouw organisatie de klanttevredenheid wil verbeteren"
@@ -34,19 +34,19 @@ icont4: "Jouw organisatie LEAN principes wil implementeren"
 sec6: "Projecten"
 sec7: "Overzicht reeds voltooide projecten en klantervaringen."
 sec8: "Canon"
-#sec9: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
+sec9: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
 #sec10: "Terraformed a small moon"
 #sec11: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
 #sec12: "Snapped dark matter in the wild"
 #sec13: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
 
 # Section 4
-sec14: "Wie is Mette"
+sec14: "Wie is Mette?"
 sec15: "Oprichter en eigenaar achter Met Resultaat is Mette Reitsma. Ze is enthousiast, slim, gedreven en zeer resultaatgericht. Met veel energie en overtuigingskracht brengt zij een organisatie in beweging. Ze leert snel en stelt veel vragen om tot de kern te komen. Betrouwbaarheid is voor haar cruciaal."
 sec16: "Mette heeft ruim 20 jaar ervaring en heeft daarbij meerdere organisaties in beweging gebracht. Ze maakt problemen graag kleiner zodat ze in kleine stappen op te lossen zijn. Ze zorgt continu dat kwaliteit, tijd en investering met elkaar in balans zijn."
 
 # Social Links
-facebook: username
+#facebook: username
 #twitter:  username
 #google: username
 #instagram: username
@@ -62,4 +62,4 @@ linkedin: username
 #medium: username
 #vimeo: username
 #keybase: username
-email: hallo@met.resulta.at
+email: mette@resulta.at
