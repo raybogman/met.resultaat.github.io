@@ -29,17 +29,7 @@ Icons used are by [Font Awesome](https://fontawesome.com/).
 
 To change the icons use [this](https://fontawesome.com/v4.7.0/icons/) for reference.
 
-Others code used in **Read** are:
 
-*  [jQuery](jquery.com)
-
-*  html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-
-* [CSS3 Pie](https://css3pie.com)
-
-* [Respond.js](j.mp/respondjs)
-
-* [Skel](skel.io)
 
 
 
